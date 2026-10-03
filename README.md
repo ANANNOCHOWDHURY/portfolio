@@ -79,6 +79,10 @@ Everything (HTML, CSS, JS, inline SVG icon defs) lives in a single `index.html` 
 
 Live at **[anannochowdhury.com](https://www.anannochowdhury.com/)**. Single static file, deployed with zero build step.
 
+## `> license`
+
+All Rights Reserved — © 2026 Ananno Chowdhury. See [`LICENSE`](./LICENSE) for the full terms. No part of this source code, design, or content may be copied, reused, or redistributed without written permission.
+
 ## `> contact`
 
 <div align="center">
@@ -96,7 +100,7 @@ Student today. Defender tomorrow.
 ```
 
 <a href="https://www.anannochowdhury.com/">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:5a46e0,40:1a1240,100:0b1020&section=footer" width="100%" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:5a46e0,40:1a1240,100:0b1020&text=Created%20by%20ANANNO%20CHOWDHURY&fontColor=ffc857&fontSize=18&fontAlignY=50" width="100%" alt="Created by ANANNO CHOWDHURY"/>
 </a>
 
 </div>
